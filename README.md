@@ -1,4 +1,9 @@
-# Email_Sender-
+# Email_Sender
+# Requirements
+A gamila account
+ygamil
+  -uses: pip install yagmail
+  to install
 This python script will send emails to a any email address besides hotmail  emails.
 !!!!!Do note that you need to, create an app passord for this to function properly.
 While using your default email password may work, it might give issuses later on.
@@ -17,6 +22,5 @@ If this does not work you can follow these steps.
 3. After turning on the 2-step verification, again on the security page, click over App Passwords and create an app and note down the password that will show on the screen after the app is created.
 
 With that, Google gives the green light to your app so your app can log in to your Gmail account and send out emails successfully.
-
 
 
